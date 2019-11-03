@@ -1,0 +1,43 @@
+
+body{
+  background: #F6F8FA !important;
+}
+.TOP{
+  margin-top: 5%;
+}
+
+.border_with_cirlce{
+  border: 2px solid #bbb;
+  padding: 2%;
+  border-radius: 4px;
+}
+
+.Right{
+  float: left;
+}
+
+.Left{
+  float: right;
+  margin-top: 2%;
+}
+.edit{
+  background: blue;
+  border: none;
+  width: 100%;
+  padding: 2%;
+}
+.delete{
+  background: red;
+  width:100%;
+  border: none;
+  padding: 2%;
+
+
+}
+.username{
+  margin-top: 5% !important;
+}
+
+.strikeout{
+  text-decoration: line-through;
+}
